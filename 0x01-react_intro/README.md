@@ -1,4 +1,4 @@
-# 0x02. React intro
+# 0x01. React intro
 
 ## Learning Objectives
 
